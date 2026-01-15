@@ -18,6 +18,7 @@ npm start
 
 - Feature 1
 - Feature 2
+  // Update: commit 3
 - Feature 3
 
 ## License
