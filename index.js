@@ -2,7 +2,7 @@
 console.log('Welcome to fluffy-chainsaw');
 
 // Initialize application
-function init() {
+function init() { // updated
     console.log('Application initialized');
 }
 
